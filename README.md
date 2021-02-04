@@ -1,7 +1,7 @@
 # exercise18_testnet
 
 ## dependencies 
-- geth
+- geth (https://geth.ethereum.org/downloads/)
 
 ## Procedure 
 <p>1. To start the ethereum testnet nodes, navigate to the root directory of the repo.</br>
